@@ -14,7 +14,7 @@ export default function App() {
   })
 
   return (
-    <div>
+    <div className="frame-layout">
       <Navbar />
       {cards}
     </div>

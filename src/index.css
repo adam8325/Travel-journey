@@ -2,6 +2,14 @@ body {
   margin: 0px;
   font-family: inter, sans-serif;
 }
+
+.frame-layout {
+  max-width: 500px;
+  margin: 80px auto;
+  border: 2px solid #F55A5A;
+  border-radius: 5px;
+}
+
 .container {
   display: flex; 
   padding: 10px 20px;
