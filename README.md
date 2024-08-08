@@ -3,13 +3,12 @@
 This project is a travel journey application built using React and Vite. It showcases various travel destinations with detailed information and images.
 
 ## Go live
-Have a look at the travel journey app here
+Have a look at the travel journey app [here](https://travel-journey-adam.netlify.app/)
 
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
 - **Vite**: A build tool that provides a faster and leaner development experience for modern web projects.
-- **ESLint**: A tool for identifying and fixing problems in JavaScript code.
 - **Font Awesome**: A toolkit for icons and social logos.
 
 ## Project Structure
